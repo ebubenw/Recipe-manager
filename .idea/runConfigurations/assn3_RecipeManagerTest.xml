@@ -1,0 +1,14 @@
+<component name="ProjectRunConfigurationManager">
+  <configuration default="false" name="assn3.RecipeManagerTest" type="Application" factoryName="Application">
+    <option name="MAIN_CLASS_NAME" value="assn3.RecipeManagerTest" />
+    <extension name="coverage">
+      <pattern>
+        <option name="PATTERN" value="assn3.*" />
+        <option name="ENABLED" value="true" />
+      </pattern>
+    </extension>
+    <method v="2">
+      <option name="Make" enabled="true" />
+    </method>
+  </configuration>
+</component>
